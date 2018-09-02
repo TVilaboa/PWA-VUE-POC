@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PWA VUE POC", "PWA VUE POC.csproj", "{EBF26F6B-8113-4268-9F66-42DA83A073DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBF26F6B-8113-4268-9F66-42DA83A073DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF26F6B-8113-4268-9F66-42DA83A073DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF26F6B-8113-4268-9F66-42DA83A073DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF26F6B-8113-4268-9F66-42DA83A073DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58225160-F84C-4678-8BF7-D8A5B1222885}
+	EndGlobalSection
+EndGlobal
